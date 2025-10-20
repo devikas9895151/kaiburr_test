@@ -123,9 +123,9 @@ jobs:
       - name: Build Docker Image
         run: docker build -t kaiburr-taskapi .
 
-🧱 Docker Setup
+
 🐋 Dockerfile
-FROM openjdk:17-jdk-slim
+FROM openjdk:11`-jdk-slim
 WORKDIR /app
 COPY target/taskapi-0.0.1-SNAPSHOT.jar app.jar
 EXPOSE 8080
