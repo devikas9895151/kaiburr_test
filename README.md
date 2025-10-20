@@ -144,11 +144,11 @@ Backend (Spring Boot API)
          v
 MongoDB (Local or Cloud)
 
-📸 Screenshots (Add Yours)
+
 
 Replace these placeholders with actual screenshots from your project
 
-UI Preview	API in Postman
+UI Preview	API in thunder client
 
 	
 ✅ Output Summary
